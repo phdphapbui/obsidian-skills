@@ -6,9 +6,9 @@
   },
   "plugins": [
     {
-      "name": "obsidian",
+      "name": "obsidian-skills",
       "source": "./",
-      "description": "Claude Skills for Obsidian",
+      "description": "Agent Skills for Obsidian",
       "version": "1.0.1"
     }
   ]

@@ -1,0 +1,36 @@
+{
+  "name": "obsidian-skills",
+  "version": "1.0.1",
+  "description": "Create and edit Obsidian vault files including Markdown, Bases, Canvas, and CLI-assisted vault operations.",
+  "author": {
+    "name": "Steph Ango",
+    "url": "https://stephango.com/"
+  },
+  "skills": "./skills/",
+  "interface": {
+    "displayName": "Obsidian Skills",
+    "shortDescription": "Use Obsidian vault skills in Codex.",
+    "longDescription": "Obsidian Skills provides Codex-ready skills for Obsidian Markdown, Bases, JSON Canvas, the Obsidian CLI, and clean web-to-Markdown extraction.",
+    "developerName": "Steph Ango",
+    "category": "Productivity",
+    "capabilities": [
+      "Create and edit Obsidian Flavored Markdown notes",
+      "Create and edit Obsidian Bases files",
+      "Create and edit JSON Canvas files",
+      "Interact with Obsidian through the Obsidian CLI",
+      "Extract clean Markdown from web pages with Defuddle"
+    ],
+    "websiteURL": "https://github.com/kepano/obsidian-skills",
+    "defaultPrompt": "Help me work with an Obsidian vault using the available Obsidian skills."
+  },
+  "repository": "https://github.com/kepano/obsidian-skills",
+  "license": "MIT",
+  "keywords": [
+    "obsidian",
+    "markdown",
+    "bases",
+    "canvas",
+    "pkm",
+    "notes"
+  ]
+}
